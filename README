@@ -1,0 +1,5 @@
+Fast HMM Mapping
+
+* An experimental way to match a Hidden Markov Model to a long sequence of observations (see `HMMmapping.pdf`)
+* Main file to run is `./src/fhmmm.py`
+* Use Ipython with pylab (`ipython -pylab`) to run `./src/scripts/` from `./src`
